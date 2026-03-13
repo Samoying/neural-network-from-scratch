@@ -3,7 +3,11 @@
 이 저장소에는 NumPy를 사용하여 Python으로 구현된 기본적인 신경망이 포함되어 있습니다.
 
 데이터 셋은 총 세 개가 있으며, 각각 `XOR`, `circle`, `spiral`입니다.
-XOR
+### XOR
+
+<img width="547" height="413" alt="Image" src="https://github.com/user-attachments/assets/394bf525-faea-43dc-85d8-1aa08e498667" />
+
+### circle
 
 ## 프로젝트 설명
 
