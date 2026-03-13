@@ -31,6 +31,7 @@
 
 <img width="515" height="389" alt="Image" src="https://github.com/user-attachments/assets/a6e63538-ac70-44d2-9d22-2f760298a52e" />
 
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/51cd6f1d-d048-42d8-ba4d-4b3be355760e" />
 
 ## 프로젝트 설명
 
