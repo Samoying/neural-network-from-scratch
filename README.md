@@ -7,7 +7,7 @@
 
 <img width="547" height="413" alt="Image" src="https://github.com/user-attachments/assets/394bf525-faea-43dc-85d8-1aa08e498667" />
 
-학습 후 결정 경계 시각화
+학습 후 결정 경계를 시각화한 모습
 
 <img width="583" height="418" alt="Image" src="https://github.com/user-attachments/assets/b50d7063-7a4b-4b75-b22f-b1d7c500a8f1" />
 
@@ -15,13 +15,15 @@
 
 <img width="559" height="413" alt="Image" src="https://github.com/user-attachments/assets/3719ea54-27e9-4edd-9104-8a14b5b497a2" />
 
-학습 후 결정 경계 시각화
+학습 후 결정 경계를 시각화한 모습
 
 <img width="515" height="389" alt="Image" src="https://github.com/user-attachments/assets/0908e508-05d0-41f4-8657-f76dfcb2cd6f" />
 
 ## spiral
 
+<img width="567" height="413" alt="Image" src="https://github.com/user-attachments/assets/a34f8fcd-d103-4765-bf59-72aa8e4e97b7" />
 
+학습 후 결정 경계를 시각화한 모습
 ## 프로젝트 설명
 
 이 프로젝트는 이진 분류가 가능한 간단한 피드포워드 신경망을 보여줍니다. 시그모이드(Sigmoid) 및 ReLU 활성화 함수와 같은 일반적인 신경망 구성 요소를 직접 구현했으며, 네트워크 아키텍처, 순전파(forward pass) 및 역전파(backpropagation)를 캡슐화하는 `Net` 클래스가 포함되어 있습니다.
