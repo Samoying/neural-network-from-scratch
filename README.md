@@ -24,6 +24,12 @@
 <img width="567" height="413" alt="Image" src="https://github.com/user-attachments/assets/a34f8fcd-d103-4765-bf59-72aa8e4e97b7" />
 
 학습 후 결정 경계를 시각화한 모습
+
+<img width="515" height="389" alt="Image" src="https://github.com/user-attachments/assets/72ef0219-d0c9-4bb0-ac4f-2b93bfb2bfa5" />
+
+<img width="515" height="389" alt="Image" src="https://github.com/user-attachments/assets/a6e63538-ac70-44d2-9d22-2f760298a52e" />
+
+
 ## 프로젝트 설명
 
 이 프로젝트는 이진 분류가 가능한 간단한 피드포워드 신경망을 보여줍니다. 시그모이드(Sigmoid) 및 ReLU 활성화 함수와 같은 일반적인 신경망 구성 요소를 직접 구현했으며, 네트워크 아키텍처, 순전파(forward pass) 및 역전파(backpropagation)를 캡슐화하는 `Net` 클래스가 포함되어 있습니다.
