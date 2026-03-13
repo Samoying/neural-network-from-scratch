@@ -15,6 +15,10 @@
 
 <img width="559" height="413" alt="Image" src="https://github.com/user-attachments/assets/3719ea54-27e9-4edd-9104-8a14b5b497a2" />
 
+학습 후 결정 경계 시각화
+
+<img width="515" height="389" alt="Image" src="https://github.com/user-attachments/assets/0908e508-05d0-41f4-8657-f76dfcb2cd6f" />
+
 ## spiral
 
 
