@@ -7,6 +7,10 @@
 
 <img width="547" height="413" alt="Image" src="https://github.com/user-attachments/assets/394bf525-faea-43dc-85d8-1aa08e498667" />
 
+학습 후 결정 경계 시각화
+
+<img width="583" height="418" alt="Image" src="https://github.com/user-attachments/assets/b50d7063-7a4b-4b75-b22f-b1d7c500a8f1" />
+
 ### circle
 
 <img width="559" height="413" alt="Image" src="https://github.com/user-attachments/assets/3719ea54-27e9-4edd-9104-8a14b5b497a2" />
